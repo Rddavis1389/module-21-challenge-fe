@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/module-21-challenge-fe/static/css/main.a13d3d6a.chunk.css",
+    "main.js": "/module-21-challenge-fe/static/js/main.0fef2f43.chunk.js",
+    "main.js.map": "/module-21-challenge-fe/static/js/main.0fef2f43.chunk.js.map",
+    "runtime-main.js": "/module-21-challenge-fe/static/js/runtime-main.5657f965.js",
+    "runtime-main.js.map": "/module-21-challenge-fe/static/js/runtime-main.5657f965.js.map",
+    "static/css/2.69121389.chunk.css": "/module-21-challenge-fe/static/css/2.69121389.chunk.css",
+    "static/js/2.409a8a27.chunk.js": "/module-21-challenge-fe/static/js/2.409a8a27.chunk.js",
+    "static/js/2.409a8a27.chunk.js.map": "/module-21-challenge-fe/static/js/2.409a8a27.chunk.js.map",
+    "index.html": "/module-21-challenge-fe/index.html",
+    "precache-manifest.5f365eb05c84e228bb65a38a5432f624.js": "/module-21-challenge-fe/precache-manifest.5f365eb05c84e228bb65a38a5432f624.js",
+    "service-worker.js": "/module-21-challenge-fe/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/module-21-challenge-fe/static/css/2.69121389.chunk.css.map",
+    "static/css/main.a13d3d6a.chunk.css.map": "/module-21-challenge-fe/static/css/main.a13d3d6a.chunk.css.map",
+    "static/js/2.409a8a27.chunk.js.LICENSE.txt": "/module-21-challenge-fe/static/js/2.409a8a27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5657f965.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.409a8a27.chunk.js",
+    "static/css/main.a13d3d6a.chunk.css",
+    "static/js/main.0fef2f43.chunk.js"
+  ]
+}
